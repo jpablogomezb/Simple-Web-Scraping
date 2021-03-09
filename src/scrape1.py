@@ -87,15 +87,3 @@ else:
 						"count": count,
 						"timestamp": timestamp
 					})
-
-
-
-
-
-
-
-
-
-
-
-
