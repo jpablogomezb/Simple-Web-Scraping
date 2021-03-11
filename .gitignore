@@ -1,8 +1,9 @@
-
 .DS_Store
+*sublime-workspace
+*sublime-project
 bin/
 include/
-pip-selfcheck.json
+pip-selfcheck
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

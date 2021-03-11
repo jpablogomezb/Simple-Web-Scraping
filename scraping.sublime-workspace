@@ -4,6 +4,190 @@
 		"selected_items":
 		[
 			[
+				"look",
+				"lookup_html_soup"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"don",
+				"domain_name"
+			],
+			[
+				"lin",
+				"link_domain"
+			],
+			[
+				"cont",
+				"content-area"
+			],
+			[
+				"lo",
+				"lookup_dict"
+			],
+			[
+				"fina",
+				"final_words"
+			],
+			[
+				"sa",
+				"save_final_words"
+			],
+			[
+				"final",
+				"final_scrapped_items"
+			],
+			[
+				"csv",
+				"csv_path"
+			],
+			[
+				"to",
+				"to_scrape"
+			],
+			[
+				"save",
+				"save_links_scraped"
+			],
+			[
+				"get_re",
+				"get_regex_local_paths"
+			],
+			[
+				"sc",
+				"scrapped_a"
+			],
+			[
+				"cle",
+				"clean_words"
+			],
+			[
+				"get",
+				"get_domain_name"
+			],
+			[
+				"do",
+				"domain_name"
+			],
+			[
+				"htl",
+				"html_soup"
+			],
+			[
+				"fet",
+				"fetch_url"
+			],
+			[
+				"new",
+				"new_words"
+			],
+			[
+				"pth",
+				"path-1"
+			],
+			[
+				"c",
+				"current_depth"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"parse",
+				"parse_blog_post"
+			],
+			[
+				"clean",
+				"clean_words"
+			],
+			[
+				"clea",
+				"clean_up_words"
+			],
+			[
+				"loo",
+				"lookup_url"
+			],
+			[
+				"lookup",
+				"lookup_url"
+			],
+			[
+				"htm",
+				"html_soup"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"is",
+				"is_match"
+			],
+			[
+				"de",
+				"default_patter"
+			],
+			[
+				"a",
+				"a_tags"
+			],
+			[
+				"st",
+				"status_code"
+			],
+			[
+				"resp",
+				"response_html"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"app",
+				"append_http"
+			],
+			[
+				"htt",
+				"https"
+			],
+			[
+				"val",
+				"validate_url"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"word",
+				"words_counts"
+			],
+			[
+				"doma",
+				"domain"
+			],
+			[
+				"stop",
+				"stop_words"
+			],
+			[
+				"wo",
+				"words_counts"
+			],
+			[
+				"body",
+				"body_"
+			],
+			[
 				"mapbo",
 				"mapbox_sat"
 			],
@@ -176,28 +360,12 @@
 				"display"
 			],
 			[
-				"to",
-				"toggle"
-			],
-			[
 				"the",
 				"theater"
 			],
 			[
 				"list",
 				"listings"
-			],
-			[
-				"new",
-				"newFeature"
-			],
-			[
-				"lo",
-				"log"
-			],
-			[
-				"res",
-				"response"
 			],
 			[
 				"lister",
@@ -260,20 +428,8 @@
 				"Diciembre"
 			],
 			[
-				"is",
-				"isCollapsed"
-			],
-			[
 				"t",
 				"true"
-			],
-			[
-				"val",
-				"value"
-			],
-			[
-				"get",
-				"getColor"
 			],
 			[
 				"set",
@@ -284,16 +440,8 @@
 				"suerte2"
 			],
 			[
-				"l",
-				"label\tTag"
-			],
-			[
 				"q",
 				"q1"
-			],
-			[
-				"de",
-				"density"
 			],
 			[
 				"no",
@@ -332,10 +480,6 @@
 				"Contact"
 			],
 			[
-				"c",
-				"ContactAdmin"
-			],
-			[
 				"tem",
 				"templates"
 			],
@@ -370,150 +514,6 @@
 			[
 				"h",
 				"h1\tTag"
-			],
-			[
-				"col",
-				"color"
-			],
-			[
-				"P",
-				"ProfileAdmin"
-			],
-			[
-				"pro",
-				"Profile"
-			],
-			[
-				"viz",
-				"vizUrl"
-			],
-			[
-				"id",
-				"id_nfc_tag"
-			],
-			[
-				"visi",
-				"visible"
-			],
-			[
-				"re",
-				"reparacion_sugerida"
-			],
-			[
-				"reparac",
-				"reparacion_sugerida"
-			],
-			[
-				"cart",
-				"cartodb"
-			],
-			[
-				"i",
-				"i\tTag"
-			],
-			[
-				"x",
-				"xCoord"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"b",
-				"bold"
-			],
-			[
-				"vector",
-				"vectorLayer_puntosuelta"
-			],
-			[
-				"vec",
-				"vectorLayer_palomar"
-			],
-			[
-				"vecto",
-				"vectorLayer_puntosuelta"
-			],
-			[
-				"A",
-				"Anchored"
-			],
-			[
-				"layer_",
-				"vectorLayer_palomar"
-			],
-			[
-				"selec",
-				"selectControl"
-			],
-			[
-				"ci",
-				"clima_ciudades"
-			],
-			[
-				"meter",
-				"meteo_aeropuertos"
-			],
-			[
-				"ve",
-				"vectorPuntos"
-			],
-			[
-				"vect",
-				"vectorPuntos"
-			],
-			[
-				"mapear",
-				"MapearPalomar"
-			],
-			[
-				"on",
-				"onchange"
-			],
-			[
-				"alr",
-				"alert"
-			],
-			[
-				"mi",
-				"midPointY"
-			],
-			[
-				"mid",
-				"midPointX"
-			],
-			[
-				"distO",
-				"CalDistLoc"
-			],
-			[
-				"sq",
-				"sql_col"
-			],
-			[
-				"btn",
-				"btnKML"
-			],
-			[
-				"yM",
-				"yMax"
-			],
-			[
-				"para",
-				"pararrayo"
-			],
-			[
-				"p",
-				"pararrayos"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"bor",
-				"border-top"
 			]
 		]
 	},
@@ -552,6 +552,18 @@
 	},
 	"file_history":
 	[
+		"/Users/JPGBS/Dev/web-scraper/src/scrape.py",
+		"/Users/JPGBS/Geoinnovare/Proyectos_Web/Temaca/static/js/main.js",
+		"/Users/JPGBS/Geoinnovare/Proyectos_Web/Temaca/index.html",
+		"/Users/JPGBS/Dev/web-scraper/web-scraper.sublime-workspace",
+		"/Users/JPGBS/Dev/web-scraper/README.md",
+		"/Users/JPGBS/Dev/web-scraper/.gitignore",
+		"/Users/JPGBS/Dev/web-scraper/src/scrape-depth.py",
+		"/Users/JPGBS/Dev/web-scraper/src/csv/tim-blogscraped-links.csv",
+		"/Users/JPGBS/Dev/web-scraper/src/scrape1.py",
+		"/Users/JPGBS/Dev/web-scraper/scrape1.py",
+		"/Users/JPGBS/Dev/scraping/src/scrape2.py",
+		"/Users/JPGBS/Dev/scraping/src/csv/tim-blog.csv",
 		"/Users/JPGBS/Geoinnovare/Proyectos_Web/Temaca/index-temaca-bckup.html",
 		"/Applications/XAMPP/xamppfiles/htdocs/madrid-catastro/a.htaccess",
 		"/Applications/XAMPP/xamppfiles/htdocs/madrid-catastro/assets/js/main2.js",
@@ -667,23 +679,11 @@
 		"/Users/JPGBS/Documents/Master Ing. Geodesica y Catografica/_Programación WEB/www/usabilidad/movilidadgdl.html",
 		"/Users/JPGBS/Documents/Master Ing. Geodesica y Catografica/_Programación WEB/Ejemplos/CartoDB_GoogleCharts/CartoDB1.html",
 		"/Users/JPGBS/Documents/Master Ing. Geodesica y Catografica/_Programación WEB/Ejemplos/CartoDB_GoogleCharts/CartoDB2.html",
-		"/Users/JPGBS/Desktop/practica3/nucleso.html",
-		"/Users/JPGBS/Desktop/saWebv1/src/sa_web/static/css/images/marker-focused.png",
-		"/Users/JPGBS/Desktop/saWebv1/src/project/settings.py",
-		"/Users/JPGBS/Desktop/saWebv1/src/project/local_settings.py",
-		"/Users/JPGBS/Desktop/SA_WEB/src/project/local_settings.py",
-		"/Users/JPGBS/Documents/Crowdsourcing_VGI/Shareabouts/ghp-shareabouts-map-master/app/index.html",
-		"/Users/JPGBS/Documents/Crowdsourcing_VGI/Shareabouts/ghp-shareabouts-map-master/app/scripts/main.js",
-		"/Users/JPGBS/Desktop/lwc/src/lwc/settings/base.py",
-		"/Users/JPGBS/Desktop/lwc/src/lwc/settings/__init__.py",
-		"/Users/JPGBS/Desktop/error1.html",
-		"/Users/JPGBS/Desktop/sh_api_pararrayos/src/sa_api_v1/apikey_v1/models.py",
-		"/Users/JPGBS/Desktop/sh_api_pararrayos/src/sa_api_v1/models.py",
-		"/Users/JPGBS/Desktop/saApi/src/beta_signup/views.py"
+		"/Users/JPGBS/Desktop/practica3/nucleso.html"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -725,7 +725,7 @@
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -800,7 +800,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 217.0,
+	"side_bar_width": 234.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
